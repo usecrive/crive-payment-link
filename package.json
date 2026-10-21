@@ -1,0 +1,9 @@
+{
+  "name": "@usecrive/payment-link",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "crive-payment-link": "./bin/crive-payment-link.mjs"
+  }
+}
